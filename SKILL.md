@@ -4,7 +4,8 @@ description: Tailor communication, presentation, and framing to specific audienc
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3339
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - adaptive-audience-presentation
 - structure
